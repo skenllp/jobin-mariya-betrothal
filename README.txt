@@ -26,4 +26,4 @@ NOTES
   hrefs with exact map links if you have them.
 - Open Graph URL tags were removed; after deploying, add og:url and make
   og:image an absolute URL for best WhatsApp previews.
-- Contact number in the closing section: 8547618550.
+- Contact number in the closing section: 9495393315.
